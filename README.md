@@ -10,6 +10,9 @@ It is a small project built with:
 > [!NOTE]
 > Bootswatch is a page where you can find themes for Bootstrap
 
+## Deployment
+- Netlify: [live project](https://firebase-crud-becky.netlify.app/)
+
 ## UI 
 ![image](https://github.com/user-attachments/assets/fdaff9fd-89ec-407b-b3e9-85df4f6c0f6b)
 
